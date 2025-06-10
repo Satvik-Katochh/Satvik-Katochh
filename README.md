@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Satvik — A Full Stack Developer from Bangalore</h2>
+<h2 align="left">Hi 👋! </h2>
 
 ###
 <p align="left">I'm a Full Stack Developer from Bangalore who loves building things 😊 I build  web applications with modern tech stacks and deploy them (and occasionally break things). When I'm not debugging at 2 AM, I'm probably starting another side project I'll never finish. Always working on something new and probably have way too many browser tabs open right now. :')</p>
