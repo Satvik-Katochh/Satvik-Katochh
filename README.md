@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! I'm Satvik — A Full Stack Developer from Bangalore</h2>
 
 ###
-<p align="left">I'm a passionate Full Stack Developer with expertise in building dynamic and responsive web applications. With a strong foundation in React, Vue, and Next.js on the frontend and Python with Django Rest Framework on the backend, I create seamless and efficient user experiences. My skill set extends to leveraging AWS cloud services and database management with MySQL, enabling me to deliver scalable and robust solutions from end to end.</p>
+<p align="left">I'm a Full Stack Developer from Bangalore who loves building things 😊 I build  web applications with modern tech stacks and deploy them (and occasionally break things). When I'm not debugging at 2 AM, I'm probably starting another side project I'll never finish. Always working on something new and probably have way too many browser tabs open right now. :')</p>
 
 ###
 
